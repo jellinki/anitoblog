@@ -7,7 +7,6 @@ title: Katelyn Gelle's Blog
   <img src="{{site.baseurl}}/images/anito/wadelink.gif" alt="Link in the Water, The Legend of Zelda: Breath of The Wild" />
 </div>  
 
-</script>
 <!-- Liquid:  statements -->
 
 <!-- Include submenu from _includes to top of pages -->

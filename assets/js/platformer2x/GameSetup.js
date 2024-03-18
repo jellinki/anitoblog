@@ -302,15 +302,15 @@ const GameSetup = {
 
         var fun_facts = {
           //data structure
-          "Fun Fact #1" : "Mario's full name is Mario Mario.", //key and value
-          "Fun Fact #2" : "Mario's least favorite food is shittake mushrooms.", //single quotes to include the double quotes
-          "Fun Fact #3" : "Mario, in human years, is 24-25 years old.",
-          "Fun Fact #4" : "Mario's girlfriend's name is Pauline.",
-          "Fun Fact #5" : "Call or text 929-55-MARIO (929-556-2746) to get a fun suprise!",
-          "Fun Fact #6" : "Mario's original name was Jumpman.",
-          "Fun Fact #7" : "March 10th is known as Mario Day because the abbreviation for March 10th (Mar10) looks like Mario.",
-          "Fun Fact #8" : " Mario was originally a carpenter, not a plumber.",
-          "Fun Fact #9" : " There are actually lyrics to the Mario theme song."
+          "Storyline" : "Princess Peach has been kidnapped. You are the only one who can save the kingdom!", //key and value
+          "Hint #1" : "Press 'W' to jump.", //single quotes to include the double quotes
+          "Hint #2" : "Press 'A' to move left.",
+          "Hint #3" : "Press 'D' to move right.",
+          "Hint #4" : "You can jump to hit blocks. You never know what might come out of them!",
+          "Hint #5" : "You can jump to stomp on enemies.",
+          "Hint #6" : "Be wary of enemies that can fly; they can get you even when you jump!",
+          "Hint #7" : "You can grab and eat mushrooms for fun!",
+          "Hint #8" : "Running into an enemy hurts you, so just don't do that."
           }
         function generate(){
           var nums = Object.keys(fun_facts);

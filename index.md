@@ -7,6 +7,18 @@ title: Katelyn Gelle's Blog
   <img src="{{site.baseurl}}/images/anito/wadelink.gif" alt="Link in the Water, The Legend of Zelda: Breath of The Wild" />
 </div>  
 
+</script>
+<!-- Liquid:  statements -->
+
+<!-- Include submenu from _includes to top of pages -->
+{% include nav_home.html %}
+<!--- Concatenation of site URL to frontmatter image  --->
+{% assign sprite_file = site.baseurl | append: page.image %}
+<!--- Has is a list variable containing mario metadata for sprite --->
+{% assign hash = site.data.mario_metadata %}  
+<!--- Size width/height of Sprit images --->
+{% assign pixels = 256 %} 
+
 ## Katelyn's Blog
 Hello, welcome to my blog! My name is Katelyn Gelle. I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple. Here are my classes this trimester:
 

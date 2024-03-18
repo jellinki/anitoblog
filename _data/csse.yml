@@ -1,74 +1,46 @@
-# course illustrations
-introduction_tools: &introduction_tools |
-    +-----------------+
-    | Laptop, OS      |
-    | Tool Setup      | 
-    +-----------------+
-       |
-       | VS Code, Markdown, Jupyter Notebook, JavaScript (.md, .html)
-       v
-    +-----------------+
-    | VS Code, Develop|
-    | Code Editor     | 
-    +-----------------+
-       |
-       | Write code, make, run localhost, test, debug
-       v
-    +-----------------+
-    | VS Code, Git    |
-    | Version Control |       | 
-    +-----------------+
-       |
-       | Commit local versions, comment, track changes
-       v
-    +-----------------+
-    | VS Code, Project|
-    | GitHub Sync     |
-    +-----------------+
-       |
-       | Push changes to cloud Repository
-       v
-    +-----------------+
-    | GitHub,  Collab |
-    | Shared Code     |
-    +-----------------+
-       |
-       | Actions, Jekyll build
-       v
-    +-----------------+
-    | GitHub Pages    |
-    | Showcase Project|
-    +-----------------+
-
-# CSSE course meta data
-Sprint1:
-  title: Tools and Software Development Processes
-  description: By the end of Weeks 0-3, students will have gained practical experience in blogging, coding with Jupyter Notebooks, and GitHub Pages; learning will begin with Linux, Markdown, HTML, and JavaScript. Students will establish a foundation using essential tools and software development processes to support their coding journey.
-  illustration: *introduction_tools
-  start: 0
+# CSSE TRI3 course meta data
+Unit1:
+  title: Trimester 3 Begin
+  description: We will be working in triangles and teams to develop a project.
+  start: 1
   end: 3
-Sprint2:
-  title: Introduction to Development with JavaScript
-  description: A key focus of this course is to make Web Games using JavaScript. These next few weeks we will cover the aspects of learning JavaScript, creating animations, and deploying the game to GitHub Pages.
+Unit2:
+  title: ...
+  description: ...
   start: 4
-  end: 6
-Sprint3:
-  title: Building a Web Application with GitHub Pages for N@tM
-  description: Part of the process of becoming technically proficient is taking on challenges while coding. These challenges will often make a student feel uncomfortable. But with some vision, questions, and AI research, it is amazing what can be done. Our goal is to participate in N@tM with the other CS classes and other classes from the Electives Department.
-  start: 7
+  end: 7
+Unit3:
+  title:  ...
+  description: ...
+  start: 8
   end: 12
-Sprint4:
-  title: OOP Programming Fundamentals
-  description: Students, in trios, will work on converting the Mario game into their blogs and learning OOP. There will be a lot of code and some former Tech Talks to support learning and teaching activity.
+Unit4:
+  title: ...
+  description: ...
   start: 13
-  end: 15
-Sprint5:
-  title: Research, Teaching, and Game Innovation
-  description: The "Student Team" will have an algorithmic teaching assignment. The Teacher will be providing topics. During "Student Teach" weeks, all teams will be doing hacks and forming a more complete Mario game.
-  start: 16
-  end: 17
-Sprint6:
-  title: Create a Final Project and N@tM 
-  description: Trimester 2 concludes with students presenting their project at N@tM. Each person within "Student Teams" will have their own specialty feature within the student project. Students should be able to talk about design, coding, and present features of their portion of the system.
-  start: 18
+  end: 16
+Unit5:
+  title: ...
+  description: ...
+  start: 17
+  end: 20
+Unit6:
+  title: Create Performance Task (CPT) and N@tM 
+  description: Trimester 2 concludes with student presenting their CPT project at N@tM.  Each person within "Student Teams" will have their own specialty within the student project that satisfied all their Create Performance Task requirements.   Student should be able to talk about design, coding, and present features of their portion of the system.
+  start: 21
   end: 24
+Unit7: 
+  title: Data Structures
+  description: This is the beginning of a college course following outline of CS113 Data Structures from Mira Costa CC.  Topics, using Python, include searching, sorting, hashing, algorithms, analysis, object-oriented design, collections, lists, stacks, queues, trees, sets, dictionaries, and graphs.
+  start: 25
+  end: 29
+Unit8:
+  title: AP Weeks
+  description: Activities will be focused on supporting students in test preparations, including student teaching.  Days that are not focused on test preparation will be focused on planning for year end project/portfolio.
+  start: 30
+  end: 32
+Unit9:
+  title: Passion Project and N@tM
+  description: Presenting accomplishments for the year by creating a passion project for N@tM.  This project will serve as the year end final exam.
+  start: 33
+  end: 36

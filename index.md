@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Katelyn Gelle's Blog
+title: Anito Gelle's Blog
 ---
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
@@ -22,7 +22,7 @@ title: Katelyn Gelle's Blog
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>katelyn's blog! :D</title>
+  <title>anito's blog! :D</title>
   <style>
     .header {
       padding: 60px;
@@ -36,7 +36,7 @@ title: Katelyn Gelle's Blog
 <body>
 
 <header class="header">
-  ## katelyn's blog
+  ## anito's blog
 </header>
 
 <!-- Rest of your HTML content -->
@@ -44,7 +44,7 @@ title: Katelyn Gelle's Blog
 </body>
 </html>
 
-Hello, welcome to my blog! My name is Katelyn Gelle. I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple. Here are my classes this trimester:
+Hello, welcome to my blog! My name is Katelyn Gelle, but I like to go by Anito. I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple. Here are my classes this trimester:
 
 <!--to make things appear on separate lines, add two spaces after each "line"-->
 1st Period: Physics/Chemistry  

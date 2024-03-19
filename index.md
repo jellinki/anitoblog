@@ -18,7 +18,32 @@ title: Katelyn Gelle's Blog
 <!--- Size width/height of Sprit images --->
 {% assign pixels = 256 %} 
 
-<p style="font-family:'Courier New'"> ## Katelyn's Blog</p>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>katelyn's blog! :D</title>
+  <style>
+    .header {
+      padding: 60px;
+      background: #f7f0ff;
+      color: #bf87ff;
+      font-family: Courier New;
+      font-size: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<header class="header">
+  ## katelyn's blog
+</header>
+
+<!-- Rest of your HTML content -->
+
+</body>
+</html>
+
 Hello, welcome to my blog! My name is Katelyn Gelle. I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple. Here are my classes this trimester:
 
 <!--to make things appear on separate lines, add two spaces after each "line"-->

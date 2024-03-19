@@ -25,11 +25,11 @@ title: Anito Gelle's Blog
   <title>anito's blog! :D</title>
   <style>
     .header {
-      padding: 60px;
+      padding: 30px;
       background: #f7f0ff;
       color: #bf87ff;
       font-family: Courier New;
-      font-size: 30px;
+      font-size: 20px;
     }
   </style>
 </head>

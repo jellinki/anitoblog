@@ -53,7 +53,7 @@ Hello, welcome to my blog! My name is Katelyn Gelle, but I prefer going by Anito
 4th Period: Computer Science  
 5th Period: AP US Government & Politics  
 
-Outside of school, I enjoy participating in Science Olympiad as both a coach and a competitor. I am a tutor in English and mathematics, and I love to both teach and play piano! Apart from these, I enjoy listening to K-Pop music, and I recently went to see ENHYPEN's concert in February! :D
+Outside of school, I enjoy participating in Science Olympiad as both a coach and a competitor. I am a tutor in English and mathematics, and I love to both teach and play piano! Apart from these, I enjoy listening to K-Pop music, and I will be seeing TOMORROW X TOGETHER in May! :D  
 
 ### Contact
 

@@ -219,7 +219,7 @@ const GameSetup = {
           src: "/images/platformer/sprites/monkey.png",
           width: 40,
           height: 40,
-          scaleSize: 80,
+          scaleSize: 100,
           speedRatio: 0.7,
           w: { row: 9, frames: 15 },
           wa: { row: 9, frames: 15 },

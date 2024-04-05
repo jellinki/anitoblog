@@ -36,7 +36,7 @@ title: Anito Gelle's Blog
 <body>
 
 <header class="header">
-  ## anito's blog
+  ## katelyn's blog
 </header>
 
 <!-- Rest of your HTML content -->
@@ -44,7 +44,7 @@ title: Anito Gelle's Blog
 </body>
 </html>
 
-Hello, welcome to my blog! My name is Katelyn Gelle, but I prefer going by Anito. I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple (as you can probably tell). Here are my classes this trimester:
+Hello, welcome to my blog! My name is Katelyn Gelle. I am a senior at Del Norte High School. I am seventeen years old, and my favorite color is purple (as you can probably tell). Here are my classes this trimester:
 
 <!--to make things appear on separate lines, add two spaces after each "line"-->
 1st Period: Physics/Chemistry  
